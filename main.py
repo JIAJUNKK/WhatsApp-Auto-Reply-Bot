@@ -30,14 +30,18 @@ def sendImage(number):
 """
 
 
-phoneNum = "+601126924296"
-message = "Do you love me?"
+phoneNum = "Target's Phone Number"
+message = "Your Message"
 
 
-timeHour = 17
-timeMin = 30
+timeHour = #Hours in 24Hour System
+timeMin =  #Minutes in 24Hour System
 while True:
-    timeMin += 30
+    timeMin += #Minutes per Period
+    """
+    if sending message every 15 minutes, timeMin += 15
+    if sending message every 30 minutes, timeMin += 30
+    """
     if timeMin % 60 != 0:
         sendMessageSchedule(phoneNum, message, timeHour, timeMin % 60)
         #sendImage(phoneNum)
