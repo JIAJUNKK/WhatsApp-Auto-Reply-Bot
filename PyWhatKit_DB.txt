@@ -1,0 +1,82 @@
+Date: 30/4/2023
+Time: 12:12
+Phone Number: +601126924296
+Message: Love you
+--------------------
+Date: 30/4/2023
+Time: 12:14
+Phone Number: +601126924296
+Message: Love you
+--------------------
+Date: 30/4/2023
+Time: 12:20
+Phone Number: +601126924296
+Message: Love you
+--------------------
+Date: 30/4/2023
+Time: 12:23
+Phone Number: +601126924296
+Message: Super Duper Love You
+--------------------
+Date: 30/4/2023
+Time: 12:49
+Phone Number: +601126924296
+Message: Super Duper Love You
+--------------------
+Date: 30/4/2023
+Time: 13:25
+Phone Number: +601126924296
+Message: Super Duper Love You
+--------------------
+Date: 30/4/2023
+Time: 13:38
+Phone Number: +601126924296
+Message: Love You
+--------------------
+Date: 30/4/2023
+Time: 13:39
+Phone Number: +601126924296
+Message: Love You
+--------------------
+Date: 30/4/2023
+Time: 13:42
+Phone Number: +601126924296
+Message: Super Duper Love You
+--------------------
+Date: 30/4/2023
+Time: 13:43
+Phone Number: +601126924296
+Message: Super Duper Love You
+--------------------
+Date: 30/4/2023
+Time: 14:5
+Phone Number: +601126924296
+Image: /Users/JIAJUNKK_1/Desktop/PythonProjects/whatsappBot/image1.jpeg
+Caption: 
+--------------------
+Date: 30/4/2023
+Time: 14:12
+Phone Number: +601126924296
+Image: image1.jpeg
+Caption: 
+--------------------
+Date: 30/4/2023
+Time: 14:23
+Phone Number: +601126924296
+Message: Do you love me?
+--------------------
+Date: 30/4/2023
+Time: 14:30
+Phone Number: +601126924296
+Message: Do you love me?
+--------------------
+Date: 30/4/2023
+Time: 15:18
+Phone Number: +601126924296
+Message: Do you love me?
+--------------------
+Date: 30/4/2023
+Time: 15:30
+Phone Number: +601126924296
+Message: Do you love me?
+--------------------
